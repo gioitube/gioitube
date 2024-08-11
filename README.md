@@ -47,7 +47,7 @@
 			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" /></td>
 			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" /></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=django" alt="django logo"/></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" /></td>
+			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi logo" /></td>
 			<td><img width="50" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo"  /></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=neovim" alt="neovim logo" /></td>
 		</tr>
